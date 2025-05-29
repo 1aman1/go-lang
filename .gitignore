@@ -20,6 +20,8 @@ text.txt
 
 # Go workspace file
 go.work
+**.mod
+**.sum
 
 # coursera review files
 *review*
